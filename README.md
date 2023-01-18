@@ -7,6 +7,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="NuxtJS">
 <img align="left" height="30px" style="padding-right:10px" src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Bootstrap-Vue">
 <img align="left" height="30px" style="padding-right:10px" src="https://miro.medium.com/max/640/1*R_pOFb0hdYgXilDklvrWog.png" alt="Vee-Validate">
+<img align="left" height="30px" style="padding-right:10px" src="https://pinia.vuejs.org/logo.svg" alt="Pinia">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/512/1878/1878350.png" alt="Figma">
 <img align="left" height="30px" style="padding-right:10px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git">
 
@@ -23,8 +24,11 @@
   - Nuxt JS
   - Options API
   - Composition API
-  - Bootstrap-Vue  
+  - Bootstrap-Vue
+ 
+ [![codewars](https://www.codewars.com/users/Viktoriia-Piskova/badges/micro)](https://www.codewars.com/users/Viktoriia-Piskova)
  
 ### Contact me
 
 [![TG](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/viktoriapiskova) [![GMAIL](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail)](https://viktoriapiskova@gmail.com)
+
