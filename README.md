@@ -6,7 +6,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/512/1878/1878350.png" alt="Figma">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="ReactJS">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJS">
+<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="NextJS">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind">
 
 
