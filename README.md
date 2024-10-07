@@ -4,16 +4,19 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="ReactJS">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="NextJS">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind">
+<img align="left" height="30px" style="padding-right:10px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png" alt="TypeScript">
+
 
 
 
 #
 #
-  - React, Next JS
+  - React, Redux, Router, Tanstack Query, Next JS
   - VueJS 3
-  - CSS, SCSS, Tailwind
+  - JS, TS, CSS, SCSS, Tailwind, Bootstrap, Material UI
   - PHP, WordPress
   - a11y, responsive layout, W3C standards, pixel perfect
+  - SEO, Web Analytics
  
  [![codewars](https://www.codewars.com/users/Viktoriia-Piskova/badges/micro)](https://www.codewars.com/users/Viktoriia-Piskova)
  
